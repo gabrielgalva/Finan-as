@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "ju",
+      "email": "juliana@gmail.com",
+      "password": "jujuju"
+    },
+    {
+      "name": "juju",
+      "email": "juliana1234@gmail.com",
+      "password": "jujuju"
+    },
+    {
+      "name": "juliana123",
+      "email": "juliana12@gmail.com",
+      "password": "jujuju"
+    },
+    {
+      "name": "gabriel",
+      "email": "gabriel@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "aline",
+      "email": "aline@gmail.com",
+      "password": "Aline123"
+    },
+    {
+      "name": "juliana12323",
+      "email": "juliana12345@gmail.com",
+      "password": "jujuju"
+    }
+  ]
+}
